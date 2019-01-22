@@ -11,14 +11,14 @@ public interface BigInterface {
 		int b=a*7;
 	}
 	
-//	public void Method2() {
-//		int a=8;
-//		int b=a*7;
-//	}
-//	
-//	public BigInterface() {
-//		
-//	}
+	public void Method2() {
+		int a=8;
+		int b=a*7;
+	}
+	
+	public BigInterface() {
+		
+	}
 	
 
 }
