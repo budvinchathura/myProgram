@@ -9,7 +9,7 @@ public class person{
 	}
 
 	public person(String name){
-		person(name,18);
+		person(name,50);
 	}
 
 	public sayName(){
