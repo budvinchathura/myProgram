@@ -11,14 +11,9 @@ public interface BigInterface {
 		int b=a*7;
 	}
 	
-	public void Method2() {
-		int a=8;
-		int b=a*7;
-	}
+	public void Method2();
 	
-	public BigInterface() {
-		
-	}
+	
 	
 
 }
