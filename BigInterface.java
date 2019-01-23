@@ -8,7 +8,7 @@ public interface BigInterface {
 
 	public default void Method1() {
 		int a=8;
-		int b=a*7;
+		int b=a*9;
 	}
 
 	public void Method2();
