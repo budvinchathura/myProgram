@@ -14,6 +14,7 @@ public class person{
 
 	public sayName(){
 		System.out.println(this.name);
+		System.out.println("hello");
 
 	}
 }
